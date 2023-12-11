@@ -1,0 +1,211 @@
+.navbar{
+    margin-bottom: 0em;
+    font-family: EB Garamond;
+    -webkit-text-fill-color: #00408D;
+    -webkit-text-stroke-color: #00408D;
+  }
+  .headline1{
+    font-size: 6em;
+    font-weight: 900;
+    text-align: center;
+    font-family: EB Garamond, sans-serif;
+    color: #E9042B;
+    -webkit-text-stroke: 4px;
+    -webkit-text-stroke-color: #00408D;
+    border-top: 0px;
+    margin-top: -0.5em;
+  }
+  /*start bouncy ball */
+  
+  .animate { 
+    width: var(--width);
+    height: var(--width);
+  }
+  
+  .x {
+    --width: 30px;
+    --x-speed: 13s;
+    --y-speed: 7s;
+    --transition-speed: 2.2s;
+    animation: x var(--x-speed) linear infinite alternate;
+  }
+  .y {
+    animation: y var(--y-speed) linear infinite alternate;
+  }
+  
+  @keyframes x {
+    100% {
+      transform: translateX(calc(100vw - var(--width)));
+    }
+  }
+  @keyframes y {
+    100% {
+      transform: translateY(calc(93vh - var(--width)));
+    }
+  }
+  /*end bouncy ball */
+  
+  .headline2{
+    font-size: 6em;
+    font-weight: 900;
+    text-align: center;
+    font-family: EB Garamond, sans-serif;
+    color: #E9042B;
+    -webkit-text-stroke: 4px;
+    -webkit-text-stroke-color: #00408D;
+  }
+  .pullquote1{
+    font-size: 2.4em;
+    text-align: center;
+    font-weight: bold;
+    font-family: EB garamond;
+  }
+  .pullquote2{
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    font-family: EB garamond;
+  margin-top: -20px;
+  margin-bottom: 0%;}
+  
+  .pq-attribute{
+    text-align: right;
+    margin-right: 50px;
+    font-family: EB garamond;
+    font-size: 15px;
+  }
+  .byline{
+    font-size: 1em;
+    font-weight: 1em;
+    text-transform: uppercase;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+  }
+  p{
+    font-family: Georgia, serif;
+    line-height: 200%;
+    font-weight: 500;
+  }
+  .topper-image1{
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+  }
+  .topper-image2{
+    width: 10%;
+    margin-right: -2em;
+    margin-top: 0%;
+  }
+  .story{
+    width: 100%;
+    margin-bottom: 4em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .intro{
+    font-size: 20px;
+    width: 60%;
+    font-weight: 400;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    font-family: EB Garamond, sans-serif;
+    font-style: italic;
+  }
+  .caption{
+    margin-top: 0em;
+    margin-bottom: 3em
+  }
+  .questions{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: EB Garamond, sans-serif;
+    font-weight: bolder;
+    color: #E9042B;
+  }
+  .row{
+    width: 85%;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .scroll
+  {
+  height:550px;
+  overflow:scroll;
+  border: 3px solid #00408D;
+  margin-bottom: 4px;
+  }
+  .q-image{
+    width: 100%;
+  }
+  .q2-image{
+    width: 100%;
+  }
+  
+  .q3-image{
+    width: 80%;
+    height: 80%;
+    position: center;
+    margin-left: 50px;
+  }
+  .caption3{
+    margin-top: 0em;
+    margin-bottom: 3em;
+    margin-left: 50px;
+    margin-right: 52px;
+  }
+  .attribute-q1{
+    margin-top: -25px;
+    -webkit-text-fill-color: white;
+    font-family: EB Garamond;
+    font-weight: 900;
+    margin-left: 390px;
+  
+  }
+  .attribute-q3-1{
+    margin-top: -25px;
+    -webkit-text-fill-color: white;
+    margin-left: 390px;
+    font-family: EB Garamond;
+    font-weight: 900;
+  
+  }
+  .attribute-q3-2{
+    margin-top: -25px;
+    -webkit-text-fill-color: white;
+    font-family: EB Garamond;
+    font-weight: 900;
+    margin-left: 390px;
+  
+  }
+  .attribute-q2{
+    margin-top: -25px;
+    -webkit-text-fill-color: black;
+    margin-left: 500px;
+    font-family: EB Garamond;
+    font-weight: 900;
+  }
+  
+  .q4-image{
+    width: 90%;
+    height: 90%;
+    position: center;
+    margin-left: 50px;}
+  
+    .attribute-q4-1{
+      margin-top: -25px;
+      -webkit-text-fill-color: white;
+      margin-left: 450px;
+      font-family: EB Garamond;
+      font-weight: 900;
+    }  
