@@ -1,0 +1,81 @@
+.topper{
+    max-width: 1080px;
+    display: block;
+    margin: auto;
+}
+.nav-link{
+    margin-left: 550px;
+    text-align: center;
+    margin-right: auto;
+    font-weight: bold;
+    font-family: EB Garamond;
+    color: #b53232
+}
+.head{
+    text-align: center;
+    font-family: EB Garamond;
+    font-weight: 800;
+    font-style: bold;
+    font-size: 5em;
+    color:#b53232;
+    text-shadow: 1px 1px #000000;
+   
+}
+#header {
+    background-image: url(SoniaHug_StreetView.jpg);
+    text-align: center;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 7em;}
+.subhead{
+    text-align: center;
+    font-family: EB Garamond;
+    padding-top: 1em;
+    padding-bottom: 21em;
+    font-weight: bold;
+    font-style: bold;
+    font-size: 1.5em;
+    color:#b53232;
+    text-shadow: 1px 1px #000000;
+}
+.byline{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: auto;
+    text-align: center;
+}
+.chapter{
+    font-family: EB Garamond;
+    font-size: 2em;
+    color: #b53232;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 2em;
+}
+.story{
+text-align: left;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    margin: auto;
+}
+.chapter1{
+    font-family: EB Garamond;
+    font-size: 2.5em;
+    text-align: center;
+    color: #b53232;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 2em;
+}
+.pic1{
+    padding-top: 1em;
+    text-align: center;
+}
+.caption{
+    text-align: center;
+    width: 60%;
+    margin-left: 250px;
+    padding-bottom: 2em;
+}

@@ -65,7 +65,6 @@
     text-align: center;
     font-weight: bold;
     font-family: EB garamond;
-  margin-top: -20px;
   margin-bottom: 0%;}
   
   .pq-attribute{
@@ -169,13 +168,14 @@
     -webkit-text-fill-color: white;
     font-family: EB Garamond;
     font-weight: 900;
-    margin-left: 390px;
+    text-align: right;
   
   }
   .attribute-q3-1{
     margin-top: -25px;
     -webkit-text-fill-color: white;
-    margin-left: 390px;
+    text-align: right;
+    margin-right: 70px;
     font-family: EB Garamond;
     font-weight: 900;
   
@@ -185,13 +185,13 @@
     -webkit-text-fill-color: white;
     font-family: EB Garamond;
     font-weight: 900;
-    margin-left: 390px;
+    text-align: right;
   
   }
   .attribute-q2{
     margin-top: -25px;
     -webkit-text-fill-color: black;
-    margin-left: 500px;
+    text-align: right;
     font-family: EB Garamond;
     font-weight: 900;
   }
@@ -205,7 +205,55 @@
     .attribute-q4-1{
       margin-top: -25px;
       -webkit-text-fill-color: white;
-      margin-left: 450px;
+      text-align: right;
+      margin-right: 30px;
       font-family: EB Garamond;
       font-weight: 900;
     }  
+    .author{
+      font-weight: bold;
+    }
+    .wemby{
+      color: #E9042B;
+      font-weight: 750;
+    }
+    .bucks{
+      color: #00471b;
+      font-weight: 750;
+    }
+    .suns{
+      color: #e56020;
+      font-weight: 750;
+    }
+    .celts{
+      color: #ba9653;
+      font-weight: 750;
+    }
+    .celts2{
+      color: #007A33;
+      font-weight: 750;
+    }
+    .wolves{
+      color: #9ea2a2;
+      font-weight: 750;
+    }
+    .sixers{
+      color: #00408D;
+      font-weight: 750;
+    }
+    .denver{
+      color: #FEC524;
+      font-weight: 750;
+    }
+    .pacers{
+      color: #FDBB30;
+      font-weight: 750;
+    }
+    .raptors{
+      color: black;
+      font-weight: 750;
+    }
+    .cavs{
+      color: #860038;
+      font-weight: 750;
+    }
