@@ -56,6 +56,8 @@
 .story{
 text-align: left;
 font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: large;
+line-height: 2.2em;
 }
 .container{
     margin: auto;
@@ -79,3 +81,28 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 250px;
     padding-bottom: 2em;
 }
+.caption2{
+    text-align: center;
+    width: 90%;
+    margin-left: 60px;
+    padding-bottom: 2em;
+}
+.pullquote2{
+    font-size: 4em;
+    text-align: center;
+    font-weight: bold;
+    font-family: EB garamond;
+    color: #b53232;
+    line-height: 1em;
+  margin-bottom: 0%;}
+  
+  .pq-attribute{
+    text-align: right;
+    margin-right: 50px;
+    font-family: EB garamond;
+    font-size: 30px;
+  }
+  .graphic{
+    padding-top: 5em;
+    padding-bottom: 5em;
+  }
